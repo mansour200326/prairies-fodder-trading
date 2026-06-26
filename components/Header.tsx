@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
-import { Link, usePathname, useRouter } from '@/i18n/routing';
+import { Link, usePathname, useRouter } from '@/i18n/navigation';
 import { useLocale } from 'next-intl';
 import { GlobeIcon, MenuIcon, CloseIcon } from './icons';
 import logo from '@/public/logo.png';
@@ -38,9 +38,11 @@ export function Header() {
   };
 
   return (
-    <header className={['site-header', scrolled && 'scrolled']
-      .filter(Boolean)
-      .join(' ')}>
+    <header
+      className={['site-header', scrolled && 'scrolled']
+        .filter(Boolean)
+        .join(' ')}
+    >
       <div className="wrap nav">
         <Link href="/" className="brand" aria-label={t('home')}>
           <span className="logo-pill">
@@ -56,7 +58,9 @@ export function Header() {
         </Link>
 
         <nav
-          className={['nav-links', menuOpen && 'open'].filter(Boolean).join(' ')}
+          className={['nav-links', menuOpen && 'open']
+            .filter(Boolean)
+            .join(' ')}
           id="navlinks"
           aria-label="Primary"
         >
