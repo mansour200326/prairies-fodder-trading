@@ -1,0 +1,174 @@
+{
+  "meta": {
+    "title": "Prairies Fodder Trading — The finest forage on earth, delivered to the Gulf",
+    "description": "Prairies Fodder Trading sources lab-tested premium hay, grasses and feed from the world's best growing regions — precision-baled and delivered fresh to stables, farms and racing stables across the UAE and GCC."
+  },
+  "nav": {
+    "about": "About",
+    "forage": "Forage",
+    "fieldToFeed": "Field to Feed",
+    "sourcing": "Sourcing",
+    "weServe": "We Serve",
+    "contact": "Contact",
+    "requestQuote": "Request a quote",
+    "menu": "Menu",
+    "switchLanguage": "Switch language",
+    "langLabel": "عربي",
+    "home": "Prairies Fodder Trading home"
+  },
+  "hero": {
+    "eyebrow": "Sourced worldwide · Delivered across the GCC",
+    "title": "Feed from the<br></br>finest <accent>plains.</accent>",
+    "sub": "Prairies sources lab-tested premium hay, grasses and feed from the world's best growing regions — precision-baled and delivered fresh to stables, farms and racing stables across the UAE and the wider Gulf.",
+    "ctaPrimary": "Request a quote",
+    "ctaSecondary": "Explore our forage",
+    "scroll": "Scroll"
+  },
+  "stats": {
+    "countries": "Source countries",
+    "grades": "Forage grades",
+    "turnaround": "Quote turnaround",
+    "tested": "Lab-tested & traceable"
+  },
+  "about": {
+    "eyebrow": "Who we are",
+    "title": "Rooted in the land,<br></br>trusted by the herd.",
+    "lead": "We don't just move bales. We protect the health of every animal that depends on them.",
+    "p1": "Prairies Fodder Trading is a Dubai-based supplier of premium animal fodder. We bring together carefully sourced hay, grasses and feed from trusted growers across the world's finest forage regions — and deliver them, consistently and on time, to the stables and farms that depend on them.",
+    "p2": "Every batch is selected for nutrition, freshness and consistency, lab-tested on intake, and traceable from field to gate — because the animals you care for deserve nothing less.",
+    "quote": "The best feed isn't found. It's selected, tested, and protected — bale by bale.",
+    "quoteCite": "— The Prairies standard"
+  },
+  "products": {
+    "eyebrow": "Our forage",
+    "title": "Premium feed, graded and tested.",
+    "intro": "From high-protein hay for performance horses to bulk roughage for livestock and camels — sourced clean, baled tight, every grade documented.",
+    "items": {
+      "alfalfa": {
+        "desc": "High-protein, leafy and energy-rich — the gold standard for performance horses and dairy herds.",
+        "specs": ["Protein", "Moisture", "Compressed"]
+      },
+      "rhodes": {
+        "desc": "The Gulf's everyday roughage — clean, palatable and low-dust, ideal for camels and general livestock.",
+        "specs": ["Protein", "Dust", "Loads"]
+      },
+      "timothy": {
+        "desc": "Low-protein, high-fibre forage supporting steady digestion — a stable favourite for mature horses.",
+        "specs": ["Protein", "Fibre", "Grade"]
+      },
+      "oatBarley": {
+        "desc": "Whole-grain energy feed and hay — a reliable source of fibre and condition for working animals.",
+        "specs": ["Protein", "Profile", "Forms"]
+      },
+      "strawBran": {
+        "desc": "Cost-effective bedding and fibre, plus protein-rich bran — versatile staples for any farm.",
+        "specs": ["Pricing", "+ Feed", "Supply"]
+      },
+      "compound": {
+        "desc": "Balanced, formulated pellets and mixes for poultry and livestock — consistent nutrition in every bag.",
+        "specs": ["Formula", "Form", "Packing"]
+      }
+    }
+  },
+  "journey": {
+    "eyebrow": "From field to feed",
+    "title": "Five steps. Full traceability.",
+    "intro": "Every bale we deliver can be traced back to the field it came from — and through every check along the way.",
+    "steps": {
+      "source": {
+        "title": "Source & select",
+        "desc": "We hand-pick growers across the world's best forage regions."
+      },
+      "test": {
+        "title": "Lab test & grade",
+        "desc": "Protein, moisture and cleanliness verified on intake."
+      },
+      "compress": {
+        "title": "Compress & bale",
+        "desc": "Double-compressed and sealed for freshness and freight."
+      },
+      "store": {
+        "title": "Store & protect",
+        "desc": "Climate-aware warehousing keeps every batch in condition."
+      },
+      "deliver": {
+        "title": "Deliver to your gate",
+        "desc": "On-time delivery across the Emirates and the Gulf."
+      }
+    }
+  },
+  "origins": {
+    "eyebrow": "Global sourcing",
+    "title": "The world's best fields, one trusted hub.",
+    "intro": "Drought, season, freight — single-origin supply is fragile. We hold relationships across multiple continents so your feed keeps arriving, whatever the market does.",
+    "mapLabel": "Sourcing routes converging on Dubai"
+  },
+  "serve": {
+    "eyebrow": "Who we feed",
+    "title": "Built for every animal you raise.",
+    "intro": "One supplier for the whole operation — matched forage for the needs of each animal."
+  },
+  "trust": {
+    "items": {
+      "quality": {
+        "title": "Lab-tested quality",
+        "desc": "Moisture, protein and cleanliness checked on every intake."
+      },
+      "traceability": {
+        "title": "Full traceability",
+        "desc": "Every bale traceable back to the field it was grown in."
+      },
+      "storage": {
+        "title": "Climate-aware storage",
+        "desc": "Covered warehousing built for Gulf conditions."
+      },
+      "logistics": {
+        "title": "GCC-wide logistics",
+        "desc": "Reliable delivery network across the Emirates and beyond."
+      }
+    }
+  },
+  "quote": {
+    "eyebrow": "Let's talk",
+    "title": "Request a quote.",
+    "sub": "Tell us what you feed and how much you need. We'll come back with availability and pricing — usually within 24 hours.",
+    "contact": {
+      "phone": "+971 4 000 0000",
+      "phoneLabel": "Sales & quotes",
+      "email": "hello@prairiesfodder.ae",
+      "emailLabel": "General enquiries",
+      "location": "Dubai, United Arab Emirates",
+      "locationLabel": "Warehouse & head office"
+    },
+    "form": {
+      "name": "Full name",
+      "company": "Company / farm",
+      "contact": "Email or WhatsApp",
+      "animal": "Animal type",
+      "animals": {
+        "horses": "Horses",
+        "livestock": "Livestock",
+        "camels": "Camels",
+        "poultry": "Poultry",
+        "mixed": "Mixed"
+      },
+      "message": "What do you need?",
+      "submit": "Send request",
+      "sending": "Sending…",
+      "note": "We typically reply within 24 hours. No spam, ever.",
+      "errorName": "Please enter your name.",
+      "errorContact": "Please enter an email or WhatsApp number.",
+      "errorGeneric": "Something went wrong. Please try again or email us directly.",
+      "successTitle": "Request received",
+      "successBody": "Thanks for reaching out — we've got your request and will reply within 24 hours.",
+      "successAgain": "Send another request"
+    }
+  },
+  "footer": {
+    "tagline": "Premium fodder for horses, livestock, camels and poultry — sourced worldwide, lab-tested, delivered across the Gulf.",
+    "exploreHeading": "Explore",
+    "contactHeading": "Contact",
+    "locationShort": "Dubai, UAE",
+    "rights": "All rights reserved."
+  }
+}
